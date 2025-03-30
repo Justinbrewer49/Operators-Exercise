@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           // Console.WriteLine("Hello, World!");
+            // Console.WriteLine("Hello, World!");
             int a = 17;
             int b = 4;
             int sum = a + b;
@@ -24,7 +24,7 @@
         static void AreaOfCircle()
         {
             double radius = 12;
-            double area = Math.PI * Math.Pow(radius,2);
+            double area = Math.PI * Math.Pow(radius, 2);
             Console.WriteLine($"The area of a circle with a radius of {radius} is {area}");
         }
     }
